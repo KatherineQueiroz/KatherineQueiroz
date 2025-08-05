@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @KatherineQueiroz
+- 👋 Hi, I’m @KatherineQueiroz 👩‍💻
+
+- Estudando desenvolvimento com Python e C#
+- Criando projetos simples para praticar lógica de programação  
+- Interessada em desenvolvimento backend e dados
+
 
 
 <!---
